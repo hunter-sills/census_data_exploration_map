@@ -12,3 +12,7 @@ tmp/
 __pycache__/
 hs_notes/
 .DS_Store
+archive/
+.*.twbr
+data/
+shapes/
